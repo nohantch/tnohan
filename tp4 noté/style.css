@@ -1,0 +1,30 @@
+.entete{
+    background-color: rgb(14, 49, 45);
+    float: left;
+    height: 70px;
+    width: 90px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.block1{
+    background-color: rgb(27, 32, 16);
+    float:left;
+    height: 300px;
+    width: 550px;
+    margin: 10px;
+    margin-top: 2%;
+    border-radius: 5px;
+}
+body{
+
+    text-align: center;
+}
+.piedpage{
+    background-color: rgb(23, 56, 52);
+    float: left;
+    height: 70px;
+    width: 90%;
+    margin: 10px;
+    border-radius: 5px;
+}
